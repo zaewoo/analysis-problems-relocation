@@ -1,4 +1,4 @@
-<h1 align="center">Analysis of Problems Caused by The relocation.</h1>
+<h1 align="center">Analysis of Problems Caused by The Relocation.</h1>
 
 <div align="Right">
     진행 기간: 2022.07.12. - 2022.07.15.
