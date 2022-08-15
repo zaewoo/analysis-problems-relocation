@@ -1,12 +1,12 @@
 <h1 align="center">Analysis of Problems Caused by The relocation.</h1>
 
 <div align="Right">
-    진행 기간: 2022.05.20. - 2022.06.14.
+    진행 기간: 2022.07.12. - 2022.07.15.
     </br>
     </br>
     작성 일자: 2022.07.12.
     </br>
-    수정 일자: 2022.07.15.
+    수정 일자: 2022.08.15.
     </br>
     </br>
     박덕용 
